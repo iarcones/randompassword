@@ -1,3 +1,3 @@
-# randompassword
+# randompassword generator
 
-# Trylogy Fullstack new pgm: Homework 03-Javascript
+### Trylogy Fullstack new pgm: Homework 03-Javascript
