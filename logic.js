@@ -182,7 +182,6 @@ const generatePass = function(options) {
     pass[i] = pass[j];
     pass[j] = temp;
   }
-  console.log(pass);
   showpass(pass);
 };
 
