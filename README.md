@@ -1,6 +1,7 @@
 # randompassword generator
 
-### Trylogy Fullstack new pgm: Homework 03-Javascript
+### Trilogy senior tutor 
+### Trilogy Fullstack new pgm: Homework 03-Javascript
 
 ### ***   added shuffle to avoid to have always the firts characters in the same order, used(Fisher-Yates shuffle: https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
 
